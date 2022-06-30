@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.exe
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.deps.json
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.runtimeconfig.json
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.dll
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\ref\BasicApp.dll
+C:\Users\user\Desktop\BasicApp\bin\Debug\net5.0\BasicApp.pdb
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.AssemblyInfo.cs
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.dll
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\ref\BasicApp.dll
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.pdb
+C:\Users\user\Desktop\BasicApp\obj\Debug\net5.0\BasicApp.genruntimeconfig.cache
